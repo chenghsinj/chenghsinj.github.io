@@ -35,14 +35,18 @@ HEY LUZI, to change the drawings or adding more drawings, simply change the code
 
 ```html
 <div class="gallery" data-columns="3">
-	<img src="/images/LUZI/drawings015.jpg">
-	<img src="/images/LUZI/drawings016.jpg">
-	<img src="/images/LUZI/drawings017.jpg">
-	<img src="/images/LUZI/drawings018.jpg">
-	<img src="/images/LUZI/drawings019.jpg">
-	<img src="/images/LUZI/drawings020.jpg">
-	<img src="/images/LUZI/drawings021.jpg">
-	<img src="/images/LUZI/drawings022.jpg">
+	<img src="/images/LUZI/drawings003.jpg">
+	<img src="/images/LUZI/drawings004.jpg">
+	<img src="/images/LUZI/drawings005.jpg">
+	<img src="/images/LUZI/drawings006.jpg">
+	<img src="/images/LUZI/drawings007.jpg">
+	<img src="/images/LUZI/drawings008.jpg">
+	<img src="/images/LUZI/drawings009.jpg">
+	<img src="/images/LUZI/drawings010.jpg">
+	<img src="/images/LUZI/drawings011.jpg">
+	<img src="/images/LUZI/drawings012.jpg">
+	<img src="/images/LUZI/drawings013.jpg">
+	<img src="/images/LUZI/drawings014.jpg">
 </div>
 ```
 
@@ -54,8 +58,13 @@ Change the number inside the 'columns' setting to create different types of gall
 ### Image carousels
 
 <div class="gallery" data-columns="1">
-	<img src="/images/LUZI/drawings007.jpg">
-	<img src="/images/LUZI/drawings008.jpg">
-	<img src="/images/LUZI/drawings009.jpg">
+	<img src="/images/LUZI/drawings015.jpg">
+	<img src="/images/LUZI/drawings016.jpg">
+	<img src="/images/LUZI/drawings017.jpg">
+	<img src="/images/LUZI/drawings018.jpg">
+	<img src="/images/LUZI/drawings019.jpg">
+	<img src="/images/LUZI/drawings020.jpg">
+	<img src="/images/LUZI/drawings021.jpg">
+	<img src="/images/LUZI/drawings022.jpg">
 </div>
 
