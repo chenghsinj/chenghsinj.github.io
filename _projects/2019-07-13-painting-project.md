@@ -65,6 +65,6 @@ Change the number inside the 'columns' setting to create different types of gall
 	<img src="/images/LUZI/drawings019.jpg">
 	<img src="/images/LUZI/drawings020.jpg">
 	<img src="/images/LUZI/drawings021.jpg">
-	<img src="/images/LUZI/drawings022.jpg">
+	<img src="/images/LUZI/drawings023.jpg">
 </div>
 
