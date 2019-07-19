@@ -8,7 +8,7 @@ featured_image: '/images/LUZI/drawings002.jpg'
 
 
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns=“4”>
 	<img src="/images/LUZI/drawings003.jpg">
 	<img src="/images/LUZI/drawings004.jpg">
 	<img src="/images/LUZI/drawings005.jpg">
@@ -21,29 +21,24 @@ featured_image: '/images/LUZI/drawings002.jpg'
 	<img src="/images/LUZI/drawings012.jpg">
 	<img src="/images/LUZI/drawings013.jpg">
 	<img src="/images/LUZI/drawings014.jpg">
+        <img src="/images/LUZI/drawings015.jpg">
+        <img src="/images/LUZI/drawings016.jpg">
+        <img src="/images/LUZI/drawings017.jpg">
+        <img src="/images/LUZI/drawings018.jpg">
+        <img src="/images/LUZI/drawings019.jpg">
+        <img src="/images/LUZI/toolight2.jpg">
+        <img src="/images/LUZI/drawings022.jpg">
+        <img src="/images/LUZI/drawings023.jpg">
+        <img src="/images/LUZI/drawings024.jpg">
+        <img src="/images/LUZI/drawings026.jpg">
+        <img src="/images/LUZI/drawings027.jpg">
+        <img src="/images/LUZI/drawings028.jpg">
+        <img src="/images/LUZI/drawings029.jpg">
+        <img src="/images/LUZI/toolight3.jpg">
+        <img src="/images/LUZI/toolight4.jpg">
+        <img src="/images/LUZI/toolight5.jpg">
 </div>
 
-HEY LUZI, to change the drawings or adding more drawings, simply change the code above/below and add/remove/edit what you like.
-
-```html
-<div class="gallery" data-columns="3">
-	<img src="/images/LUZI/drawings003.jpg">
-	<img src="/images/LUZI/drawings004.jpg">
-	<img src="/images/LUZI/drawings005.jpg">
-	<img src="/images/LUZI/drawings006.jpg">
-	<img src="/images/LUZI/drawings007.jpg">
-	<img src="/images/LUZI/drawings008.jpg">
-	<img src="/images/LUZI/drawings009.jpg">
-	<img src="/images/LUZI/drawings010.jpg">
-	<img src="/images/LUZI/drawings011.jpg">
-	<img src="/images/LUZI/drawings012.jpg">
-	<img src="/images/LUZI/drawings013.jpg">
-	<img src="/images/LUZI/drawings014.jpg">
-</div>
-```
-
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
 
 ---
 
