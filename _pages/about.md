@@ -1,13 +1,18 @@
 ---
-title: CV
+title:
 subtitle: 
 description: 
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
 
+CONTACT
+chenghsinj@gmail.com
 
-1993 in Taoyuan, Taiwan
+
+
+
+1993 born in Taoyuan, Taiwan
 lives and works in München, Germany
 
 2017-

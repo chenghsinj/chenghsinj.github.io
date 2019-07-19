@@ -1,20 +1,12 @@
 ---
-title: 'Paintings'
-subtitle: ' - (this is blank)'
+title: ‘Drawings'
+subtitle: ''
 date: 2019-07-13 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/LUZI/drawings002.jpg'
 ---
 
-![](/images/LUZI/drawings002.jpg)
 
-## Demo content
-
-This page is a demo that shows everything you can do inside portfolio and blog posts.
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
 	<img src="/images/LUZI/drawings003.jpg">
