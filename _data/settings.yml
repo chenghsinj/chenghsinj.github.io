@@ -11,7 +11,7 @@ menu_settings:
     - title: 'Works'
       url: '/'
     - title: 'CV'
-      url: '/CV'
+      url: '/cv'
     
 footer_settings:
   logo_image: 
