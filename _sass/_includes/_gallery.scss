@@ -8,14 +8,14 @@
 	visibility: hidden;
 	position: relative;
 	max-width: 90%;
-	margin: 1600px auto;
+	margin: 40px auto;
 
 	@include mq(tabletp) {
-		margin: 60px auto;
+		margin: 600px auto;
 	}
 
 	@include mq(laptop) {
-		margin: 80px auto;
+		margin: 800px auto;
 	}
 
 	&:first-child {

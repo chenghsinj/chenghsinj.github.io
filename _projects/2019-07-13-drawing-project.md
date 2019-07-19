@@ -8,7 +8,7 @@ featured_image: '/images/LUZI/drawings002.jpg'
 
 
 
-<div class="gallery" data-columns="4">
+<div class="gallery" data-columns="3">
 	<img src="/images/LUZI/drawings003.jpg">
 	<img src="/images/LUZI/drawings004.jpg">
 	<img src="/images/LUZI/drawings005.jpg">
