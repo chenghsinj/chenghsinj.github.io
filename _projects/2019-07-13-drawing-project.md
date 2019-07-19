@@ -3,13 +3,13 @@ title: 'Drawings'
 subtitle: ''
 date: 2019-07-13 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/LUZI/drawings002.jpg'
+featured_image: '/images/LUZI/toolight1.jpg'
 ---
 
 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/LUZI/drawings003.jpg">
+	<img src="/images/LUZI/toolight1.jpg">
 	<img src="/images/LUZI/drawings004.jpg">
 	<img src="/images/LUZI/drawings005.jpg">
 	<img src="/images/LUZI/drawings006.jpg">
@@ -21,7 +21,7 @@ featured_image: '/images/LUZI/drawings002.jpg'
 	<img src="/images/LUZI/drawings012.jpg">
 	<img src="/images/LUZI/drawings013.jpg">
 	<img src="/images/LUZI/drawings014.jpg">
-      <img src="/images/LUZI/drawings015.jpg">
+        <img src="/images/LUZI/drawings015.jpg">
         <img src="/images/LUZI/drawings016.jpg">
         <img src="/images/LUZI/drawings017.jpg">
         <img src="/images/LUZI/drawings018.jpg">
@@ -42,7 +42,6 @@ featured_image: '/images/LUZI/drawings002.jpg'
 
 ---
 
-### Image carousels
 
 <div class="gallery" data-columns="1">
 	<img src="/images/LUZI/drawings015.jpg">
