@@ -8,7 +8,7 @@ featured_image: '/images/LUZI/drawings002.jpg'
 
 
 
-<div class="gallery" data-columns=“4”>
+<div class="gallery" data-columns="4">
 	<img src="/images/LUZI/drawings003.jpg">
 	<img src="/images/LUZI/drawings004.jpg">
 	<img src="/images/LUZI/drawings005.jpg">
@@ -21,7 +21,7 @@ featured_image: '/images/LUZI/drawings002.jpg'
 	<img src="/images/LUZI/drawings012.jpg">
 	<img src="/images/LUZI/drawings013.jpg">
 	<img src="/images/LUZI/drawings014.jpg">
-        <img src="/images/LUZI/drawings015.jpg">
+      <img src="/images/LUZI/drawings015.jpg">
         <img src="/images/LUZI/drawings016.jpg">
         <img src="/images/LUZI/drawings017.jpg">
         <img src="/images/LUZI/drawings018.jpg">

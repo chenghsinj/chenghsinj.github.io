@@ -8,10 +8,10 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: ‘Works'
+    - title: 'Works'
       url: '/'
     - title: 'CV'
-      url: 'CV'
+      url: '/CV'
     
 footer_settings:
   logo_image: 
