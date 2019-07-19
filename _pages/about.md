@@ -18,7 +18,7 @@ CV
   born in Taoyuan, Taiwan  
   lives and works in München, Germany  
 
-  2017-
+  2017-  
   Akademie der Bildenden Künste München  
 
   2010-2015  

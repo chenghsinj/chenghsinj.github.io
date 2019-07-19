@@ -43,14 +43,3 @@ featured_image: '/images/LUZI/toolight1.jpg'
 ---
 
 
-<div class="gallery" data-columns="1">
-	<img src="/images/LUZI/drawings015.jpg">
-	<img src="/images/LUZI/drawings016.jpg">
-	<img src="/images/LUZI/drawings017.jpg">
-	<img src="/images/LUZI/drawings018.jpg">
-	<img src="/images/LUZI/drawings019.jpg">
-	<img src="/images/LUZI/drawings020.jpg">
-	<img src="/images/LUZI/drawings021.jpg">
-	<img src="/images/LUZI/drawings023.jpg">
-</div>
-

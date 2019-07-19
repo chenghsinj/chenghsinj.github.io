@@ -1,4 +1,4 @@
-=basic_settings:
+basic_settings:
   site_title: Cheng-Hsin Chiang
   favicon_image: /images/21.jpg
 
@@ -14,9 +14,9 @@ menu_settings:
       url: '/about'
     
 footer_settings:
-  logo_image: 
+  logo_image:
   logo_width: 200
-  footer_tagline: 
+  footer_tagline:
 
 grid_settings:
   overlay_opacity: 0.8
